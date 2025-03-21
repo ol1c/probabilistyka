@@ -220,6 +220,6 @@ int main()
         {209, 45.4064, 11.8768},
         {200, 45.6495, 13.7768}
     };
-    //droga(miasta, 5);
-    populacja(miasta, 3);
+    droga(miasta, 5);
+    populacja(miasta, 15);
 }
